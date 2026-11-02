@@ -1,0 +1,23 @@
+body {
+  font-family: system-ui, sans-serif;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+  margin: 0;
+  text-align: center;
+  img{
+    width:300px
+  }
+  font-family: Cochin;
+  background-color: rgba(238, 106, 11, 0.842);
+
+}
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 6rem;
+  border-radius: 8px;
+  border: 0;
+  background: #ec3750;
+  color: white;
+  cursor: pointer;
+}
